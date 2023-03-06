@@ -1,0 +1,17 @@
+[Server1]
+tags=admin-server
+HOST=111.111.111.111
+USERNAME=user1
+PASSWORD=password1
+  
+[Server2]
+tags=server
+HOST=222.222.222.222
+USERNAME=user2
+PASSWORD=password2
+
+[Server3]
+tags=admin-server
+HOST=333.333.333.333
+USERNAME=user3
+PASSWORD=password3
